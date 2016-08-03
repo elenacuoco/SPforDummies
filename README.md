@@ -9,7 +9,7 @@ This package is written in python. The code is mostly in the form of ipython not
 To run python scripts or ipython notebook you need to setup a python environment. 
 This can be done in different ways and some IDE as 
 
-- [PyChar] ( https://www.jetbrains.com/pycharm/ ) 
+- [PyCharm] ( https://www.jetbrains.com/pycharm/ ) 
 - [Enthought] (https://www.enthought.com/products/canopy/)  
 - [Anaconda] (https://www.continuum.io/downloads)
 
